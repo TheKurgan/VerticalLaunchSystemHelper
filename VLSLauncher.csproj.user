@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>E:\Games\SteamLibrary\steamapps\common\Kerbal Space Program\KSP_x64_Data\Managed\;E:\KSP110\GameData\BDArmory\Plugins\</ReferencePath>
+  </PropertyGroup>
+</Project>
