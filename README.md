@@ -3,9 +3,10 @@
 Simply add
 
 MODULE
-	{
-		name = ModuleVLSLauncher
-	}
+{
+name = ModuleVLSLauncher
+}
+
 to any missile launcher, turret, or VLS system
 
 The module will assign some default ZERO values to the missile for the launch, then restore it's configured values 0.6 sec later.
