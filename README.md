@@ -1,6 +1,7 @@
 # VerticalLaunchSystemHelper
 
 Simply add
+
 MODULE
 	{
 		name = ModuleVLSLauncher
