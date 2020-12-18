@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCompany("VLSLauncher")]
 [assembly: AssemblyProduct("VLSLauncher")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
-[assembly: AssemblyTrademark("Doctor Davinci")]
+[assembly: AssemblyTrademark("The Kurgan")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
